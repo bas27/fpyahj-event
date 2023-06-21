@@ -1,3 +1,5 @@
+// eslint-disable-next-line no-undef
+
 module.exports = {
   // ...другие настройки Jest...
   moduleNameMapper: {

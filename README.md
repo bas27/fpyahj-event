@@ -1,4 +1,5 @@
 # Домашнее задание к занятию "3.Обработка событий"
+[![FPYAHJ-EVENT](https://github.com/bas27/fpyahj-event/actions/workflows/web.yml/badge.svg)](https://github.com/bas27/fpyahj-event/actions/workflows/web.yml)
 
 Правила сдачи задания:
 
